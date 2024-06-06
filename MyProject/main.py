@@ -1,6 +1,3 @@
-#int a kfndjndkjan
-'''uhfueihfiuhf
-fjbabb
-nfjnbfa'''
+name = 13155341
 
-print("Hello World!");
+print(name)
