@@ -7,4 +7,5 @@ def oddSumFun:
         oddSum += i
   print(oddSum)
 
+
 oddSumFun()
